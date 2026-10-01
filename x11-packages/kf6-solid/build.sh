@@ -3,6 +3,7 @@ TERMUX_PKG_DESCRIPTION='Hardware integration and detection'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION="6.30.0"
+TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/solid-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=bdbfdc9f26b87e12b951097825af2956f2dee3f14c701d780277b69701f2c74e
 TERMUX_PKG_DEPENDS="libimobiledevice, libplist, qt6-qtbase, libc++, upower, util-linux"

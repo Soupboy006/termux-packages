@@ -3,6 +3,7 @@ TERMUX_PKG_DESCRIPTION="Additional components to increase the functionality of K
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
 TERMUX_PKG_MAINTAINER="@termux"
 TERMUX_PKG_VERSION="26.08.1"
+TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kio-extras-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=8050c3dd33fed06a60dda8205f4e0134d3aac95f0647b1d9c05419845341397c
 TERMUX_PKG_AUTO_UPDATE=true
